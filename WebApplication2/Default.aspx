@@ -31,7 +31,7 @@
       </div><!-- /.row -->
 
 
-      <!-- START THE FEATURETTES -->
+<%--      <!-- START THE FEATURETTES -->
 
       <hr class="featurette-divider">
 
@@ -71,7 +71,7 @@
 
       <hr class="featurette-divider">
 
-      <!-- /END THE FEATURETTES -->
+      <!-- /END THE FEATURETTES -->--%>
 
 
       <!-- FOOTER -->
